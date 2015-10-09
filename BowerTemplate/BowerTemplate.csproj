@@ -15,16 +15,20 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="gulpfile.js" />
+    <Content Include="src\js\script.js" />
     <Content Include="Test\Test.html" />
-    <Content Include="src\test\index.js" />
+    <Content Include="Test\test.js" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="src\Pkg\" />
+    <Folder Include="css\" />
+    <Folder Include="js\" />
+    <Folder Include="lib\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="bower.json" />
     <None Include="bundle.json" />
-    <None Include="src\test\index.less" />
+    <Content Include="src\less\style.less" />
+    <None Include="Test\test.less" />
     <None Include="package.json" />
   </ItemGroup>
   <PropertyGroup>

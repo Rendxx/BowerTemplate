@@ -2,11 +2,9 @@
   "name": "bower-package-name",
   "description": "",
   "main": [
-    "package path"
   ],
   "dependencies": {
-  },
-  "devDependencies": {
+    "jquery": "1.11.2"
   },
   "moduleType": [
     "globals"
@@ -14,15 +12,17 @@
   "keywords": [
   ],
   "authors": [
-    "Your Name"
   ],
   "license": "MIT",
   "ignore": [
     "**/.*",
-    "node_modules",
-    "bower_components",
+    "**/*.map",
+    "lib",
+    "src",
     "test",
-    "tests"
+		"bundle.json",
+		"gulpfile.js",
+		"package.json"
   ],
   "repository": {
     "type": "git",
