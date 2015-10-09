@@ -6,8 +6,8 @@ var gulp = require('gulp'),
     plumber = require('gulp-plumber'),
     concat = require('gulp-concat'),
     watch = require('gulp-watch'),
-    uglify = require('gulp-uglify'),
     sourcemaps = require('gulp-sourcemaps'),
+    uglify = require('gulp-uglify'),
     lzmajs = require('gulp-lzmajs');
 
 // configuration --------------------------------------------------
