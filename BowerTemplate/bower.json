@@ -15,14 +15,9 @@
   ],
   "license": "MIT",
   "ignore": [
-    "**/.*",
-    "**/*.map",
-    "lib",
-    "src",
-    "test",
-		"bundle.json",
-		"gulpfile.js",
-		"package.json"
+    "*",
+    "!js/*",
+    "!css/*"
   ],
   "repository": {
     "type": "git",

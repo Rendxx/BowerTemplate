@@ -1,4 +1,4 @@
-﻿/// <binding ProjectOpened='_watch, _copyBower' />
+﻿/// <binding ProjectOpened='_watch, _bowerCopy' />
 var gulp = require('gulp'),
     fs = require("fs"),
     del = require("del"),
