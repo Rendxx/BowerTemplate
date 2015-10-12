@@ -1,4 +1,4 @@
-# JavaScriptHtml Template
+# Bower Template
 A Visual Studio template for bower development. Including NPM / Gulp / Bower. 
 
 *Latest Version Download: [Bower v0.2.0](https://github.com/Rendxx/BowerTemplate/releases/tag/0.2.0 "Download")*
