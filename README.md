@@ -3,7 +3,7 @@ A Visual Studio template for bower development. Including NPM / Gulp / Bower.
 
 *Latest Version Download: [Bower v0.2.0](https://github.com/Rendxx/BowerTemplate/releases/tag/0.2.0 "Download")*
   
-# Install
+## Install
 1. Download the template zip file
 
 2. Move the zip file to Visual Studio custom template directory.  
@@ -32,7 +32,7 @@ A Visual Studio template for bower development. Including NPM / Gulp / Bower.
 ![preview](https://raw.githubusercontent.com/Rendxx/BowerTemplate/master/screenshot-success.png)  
 > Installation success if you see this screen.
 
-# Structure
+## Structure
 - **src/**   
   Directory of source files.  
   **src/js/**   
@@ -64,7 +64,7 @@ A Visual Studio template for bower development. Including NPM / Gulp / Bower.
   **gulpfile.js**  
   Gulp file  
 
-# Gulp Task
+## Gulp Task
 Gulp is used to process JavaScript and LESS files.  
 [More information about Gulp][Gulp]
 
@@ -87,7 +87,7 @@ Gulp is used to process JavaScript and LESS files.
 - **\_bowerClear**  
   Clear copied bower libraries. Called by task **\_bowerCopy**.
 
-# Usage
+## Usage
 1. **Changing JavaScript/LESS Files**  
    Add / Delete / Edit JavaScript and LESS source files as you wish.
 
